@@ -1,0 +1,23 @@
+{
+  "name": "frontendinstall",
+  "version": "1.0.1",
+  "description": "CLI to scaffold a custom Vite + React + Tailwind CSS v4 template with routing, themes, and UI elements.",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "frontendinstall": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "keywords": [
+    "vite",
+    "react",
+    "tailwind",
+    "scaffold",
+    "cli"
+  ],
+  "author": "ashutosh_kr_dev",
+  "license": "ISC"
+}
